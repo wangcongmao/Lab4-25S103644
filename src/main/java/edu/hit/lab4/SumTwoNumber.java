@@ -5,7 +5,7 @@ public class SumTwoNumber {
     // 222
     // 333
     public int sum(int a, int b) {
-        return a + b / 0;
+        return a + b;
     }
 }
 
